@@ -1,4 +1,4 @@
-### Hi there 👋
+### हेल्लो वर्ल्ड 🙏🏼
 
 <!--
 **aashu-kattel/aashu-kattel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
