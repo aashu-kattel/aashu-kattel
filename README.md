@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Which came first: the chicken or the egg?
 print(sorted(['🥚', '🐣', '🐥', '🐔']))
 
->>> [ '🐔', '🥚', '🐣', '🐥' ]
+>>>['🐔', '🐣', '🐥', '🥚']
 ```
 
 🔗 Links
