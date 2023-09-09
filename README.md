@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  ![Alt text](image-url-or-path)
+</div>
+
 <img width="300" alt="api-security-fundamentals-certificate-of-completion" src="https://user-images.githubusercontent.com/90999891/235841520-b6b88b75-51a6-4acc-b626-bb2140b24a34.png">
 <img alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h3 align="center">Languages and Tools:</h3>
