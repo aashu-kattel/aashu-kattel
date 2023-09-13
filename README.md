@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width="300" src="https://raw.githubusercontent.com/aashu-kattel/aashu-kattel/main/IMG_20230907_081501_198.jpg" title="I hope the image is open source. xD">
+  <img width="300" src="https://raw.githubusercontent.com/aashu-kattel/aashu-kattel/main/IMG_20230907_081501_198.jpg" title="Right here babe. [ I hope the image is open source.😜 ]">
 </div>
 <div align="center">
 <img width="300" alt="api-security-fundamentals-certificate-of-completion" src="https://user-images.githubusercontent.com/90999891/235841520-b6b88b75-51a6-4acc-b626-bb2140b24a34.png"><br>
