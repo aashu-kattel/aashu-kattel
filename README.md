@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="right">
-<img src="https://imgs.search.brave.com/fUtk4iUZSwCKp1uAi7iHQDgKcePkTfiXQNaUCti7Nn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdlLzVj/LzA3LzdlNWMwNzAx/ZmJhNDgwZTVjNTlj/Y2Y0MDBlYTE4ZTU1/LmdpZg.gif" width=200 align="right">
-</div>
-
-<div align="left">
-<img src="https://imgs.search.brave.com/fUtk4iUZSwCKp1uAi7iHQDgKcePkTfiXQNaUCti7Nn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdlLzVj/LzA3LzdlNWMwNzAx/ZmJhNDgwZTVjNTlj/Y2Y0MDBlYTE4ZTU1/LmdpZg.gif" width=200 align="left">
+<div>
+  <div align="right">
+  <img src="https://imgs.search.brave.com/fUtk4iUZSwCKp1uAi7iHQDgKcePkTfiXQNaUCti7Nn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdlLzVj/LzA3LzdlNWMwNzAx/ZmJhNDgwZTVjNTlj/Y2Y0MDBlYTE4ZTU1/LmdpZg.gif" width=200 align="right">
+  </div>
+  
+  <div align="left">
+  <img src="https://imgs.search.brave.com/fUtk4iUZSwCKp1uAi7iHQDgKcePkTfiXQNaUCti7Nn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdlLzVj/LzA3LzdlNWMwNzAx/ZmJhNDgwZTVjNTlj/Y2Y0MDBlYTE4ZTU1/LmdpZg.gif" width=200 align="left">
+  </div>
 </div>
 <div align="center">
   <img width="300" src="https://raw.githubusercontent.com/aashu-kattel/aashu-kattel/main/IMG_20230907_081501_198.jpg" title="✋Right here babe. [ I hope the image is open source.😜 ]">
