@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashu-kattel&label=Profile%20views&color=0e75b6&style=flat" alt="aashu-kattel" /> </p>
 
 <div align="center">
   <img width="300" src="https://raw.githubusercontent.com/aashu-kattel/aashu-kattel/main/IMG_20230907_081501_198.jpg" title="✋Right here babe. [ I hope the image is open source.😜 ]">
