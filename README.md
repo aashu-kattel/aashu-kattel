@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ```python
 # Which came first: the chicken or the egg?
-print(sorted(['🥚', '🐣', '🐥', '🐔']))
+print(sorted(['🥚', '🐔']))
 
->>>['🐔', '🐣', '🐥', '🥚']
+>>>['🐔', '🥚']
 ```
 </div>
-🔗 Links
+<!-- 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutosh-kattel-0b74a2251/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutosh-kattel-0b74a2251/) -->
 
