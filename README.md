@@ -42,6 +42,33 @@ print(sorted(['🥚', '🐔']))
 
 >>>['🐔', '🥚']
 ```
+
+```python
+import random as _rand, functools as _tools 
+
+A = [42, 33, 99, 101, 110, 101, 114, 117, 98]
+B = "Icancontrolyou".join(chr(x) for x in [73, 39, 109, 32, 119])
+C = "".join(chr(i) for i in range(90, 100)) + "YouCan'tCatchMe"
+f1 = lambda x: "".join(chr(ord(c) + 3) for c in x[::-1])
+f2 = lambda x: "".join(chr(ord(c) - 3) for c in x)
+
+data = [105, 39, 109, 32, 119, 97, 116, 99, 104, 105, 110, 103, 32, 121, 111, 117]
+meta = "".join(map(chr, data))
+attack = f2(f1(meta)) 
+
+noise = "".join(chr(x) for x in A)
+disable = _tools.reduce(lambda a, b: a + b, range(1, 10))  
+vulnerable = sum([_rand.randint(1, 5) for _ in range(3)])  
+exec(
+    "".join(
+        map(
+            chr,
+            [112, 114, 105, 110, 116],
+        )
+    )
+    + f'("{attack}")'
+)
+```
 </div>
 <!-- 🔗 Links
 
